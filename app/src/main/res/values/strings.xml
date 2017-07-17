@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">The Grill Coffee</string>
+    <string name="app_logo">Grill Coffee</string>
+    <string-array name="options">
+
+        <item>Drinks</item>
+        <item>Foods</item>
+        <item>Other</item>
+
+    </string-array>
+</resources>
